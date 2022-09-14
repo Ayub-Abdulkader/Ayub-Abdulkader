@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayub-Abdulkader
 - 👀 I’m interested in building modern website
-- 🌱 I’m currently learning full stack web development
+- 🌱 Currently learning full stack web development at Bit-Academy
 - 💞️ I’m looking to collaborate on my up coming project
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ayub-abdulkader-24083b244/)
 
